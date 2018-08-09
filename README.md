@@ -1,2 +1,2 @@
 # hello-world
-Practice code to learn how git hub works.
+Practice Program to learn how git hub works.
